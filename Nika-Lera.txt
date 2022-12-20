@@ -1,2 +1,2 @@
 Hello, it's Git! What's your name? And how old are you?
--
+-It's Lera. I'm 18 years old
